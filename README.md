@@ -5,11 +5,10 @@ for a workshop-length presentation.
 
 ## Slides
 
-`docs/` holds two versions of the same talk:
+`docs/AMD-Unsloth-GRPO-Fine-tuning1.pdf` is the deck for the talk: 18 slides on the AMD
+corporate template, with two section dividers ("Part 1: The Concepts" and "Part 2:
+Hands-On") separating the theory from the hands-on walkthrough, and full-bleed AMD
+background imagery.
 
-| File | Slides | Notes |
-|---|---|---|
-| `AMD Unsloth GRPO Fine-tuning.pptx` | 16 | The original deck. |
-| `AMD-Unsloth-GRPO-Fine-tuning.pptx` | 18 | The same material rebuilt on the AMD corporate template, with two section-divider slides ("Part 1: The Concepts" and "Part 2: Hands-On") separating the theory from the hands-on walkthrough. A PDF export sits alongside it for presenting where PowerPoint or the AMD fonts are unavailable. |
-
-Both cover the same ground. Pick whichever suits the room.
+It ships as a PDF so it presents identically everywhere, with no dependency on
+PowerPoint or on the AMD corporate fonts being installed.
